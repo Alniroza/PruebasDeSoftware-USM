@@ -1,0 +1,11 @@
+[2020-11-13 21:32:49.385450] Rekognition text-detection a keepsmiling.png en rekognitionpics
+[2020-11-13 21:33:12.393019] Rekognition text-detection a test2.jpg en rekognitionpics
+[2020-11-13 21:33:14.068937] Subiendo test2.jpg al bucket rekognitionpics
+[2020-11-13 21:33:16.494432] Comprobando si el texto detest2.jpgse encuentra en controlpath
+[2020-11-13 21:35:48.760636] Rekognition text-detection a keepsmiling.png en rekognitionpics
+[2020-11-13 21:35:55.160567] Rekognition text-detection a test2.jpg en rekognitionpics
+[2020-11-13 21:35:57.357226] Comprobando si el texto detest2.jpgse encuentra en controlpath
+[2020-11-13 21:37:13.007198] Rekognition text-detection a keepsmiling.png en rekognitionpics
+[2020-11-13 21:37:19.528170] Rekognition text-detection a test2.jpg en rekognitionpics
+[2020-11-13 21:37:23.418672] Comprobando si el texto detest2.jpgse encuentra en controlpath
+[2020-11-13 21:37:23.419672] Texto de imagen de control, contenido en prueba.  media1 = 99.89931640625, media2 = 99.94710693359374
